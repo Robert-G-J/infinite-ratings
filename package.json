@@ -1,0 +1,26 @@
+{
+  "name": "infinity",
+  "version": "1.0.0",
+  "description": "Get food hygiene ratings",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-G-J/cubic-quibble.git"
+  },
+  "author": "RGJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-G-J/cubic-quibble/issues"
+  },
+  "homepage": "https://github.com/Robert-G-J/cubic-quibble#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
