@@ -1,5 +1,32 @@
 # Food Hygiene Ratings
 
+## How to install and run:
+Navigate to the repo:
+```
+cd path/to/repo
+```
+Update node modules:
+```
+npm install
+```
+(this shouldn't do much as there are no dependencies)
+
+Run the tests:
+```
+open SpecRunner.html
+```
+Check they're green.
+
+Open the file in your browser:
+```
+open index.html
+```
+Open the console: <CMD+ALT+J>
+
+Admire the tiny console.log of data that represents a single arbitrary authority 🤞:
+
+![img](./screenshot.png)
+
 ## Implementation
 
 The challenge looked like it could be solved by building a single page web application with client-side javascript. 
