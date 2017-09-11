@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+}
+
+header {
+  height: 3em;
+  background-color: #F5F5F5;
+  width: 100%
+}
+
+header ul {
+ list-style-type: none;
+ vertical-align: middle;
+ line-height: 3em;
+ font-size: 1em;
+ margin: 0
+}
+
+header li {
+  display: inline;
+  list-style-type: none;
+  margin-right: 1em;
+  font-size: 0.8em
+}
+
+.navbar {
+  font-family: 'Open-Sans', sans-serif;
+  vertical-align: middle;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 3em;
+  color: #77bba4;
+}
+
+main {
+  width: 100%
+}
