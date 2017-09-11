@@ -2,7 +2,6 @@ function Api(xhr = new XMLHttpRequest()) {
   this.API_VERSION = 2;
   this.xhr         = xhr;
 }
-
 // wrapper function to contain xhr pattern
 Api.prototype.get = function(url, callback) {
   this.xhr.open('GET', url, true);

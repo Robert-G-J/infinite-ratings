@@ -35,5 +35,6 @@ header li {
 }
 
 main {
-  width: 100%
+  width: 100%;
+  font-family: 'Open-Sans';
 }
